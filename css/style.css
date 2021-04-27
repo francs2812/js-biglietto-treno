@@ -1,0 +1,25 @@
+#bigletto {
+    width: 80%;
+    border-radius: 15px;
+    border: 1px solid green;
+    overflow: hidden;
+}
+
+span {
+    padding: 2px;
+    border: 1px solid red;
+    background-color: lightpink;
+}
+
+.bordi {
+    height: 40px;
+    background-color: lightskyblue;
+}
+
+#bigletto_center {
+    padding: 10px 30px;
+}
+
+img {
+    height: 100%;
+}

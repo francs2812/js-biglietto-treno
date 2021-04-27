@@ -2,11 +2,13 @@
 var kmUtente;
 kmUtente=prompt("Quanti km vuole percorrere ?")
 console.log(kmUtente);
+document.getElementById("km").innerHTML= kmUtente ;
 
 // richiesta età
 var etaUtente;
 etaUtente=prompt("Età passeggero")
 console.log(etaUtente);
+document.getElementById("eta").innerHTML= etaUtente;
 
 // costo bigletto per km
 var prezzoPerKm;
